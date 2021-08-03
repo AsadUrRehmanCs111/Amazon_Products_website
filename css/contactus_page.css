@@ -16,16 +16,16 @@ font-family: 'Open Sans', sans-serif;
        width: 100%;
        margin:0px;
    }
-   .custom_container{
+   /* .custom_container{
     max-width: 1170px;
     margin: 0px auto;
- }
+ } */
     .contact_us_container{
         max-width: 950px;
         margin: 0px auto;
      }
 /* Header style start */
-header{
+/* header{
     float: left;
     width: 100%;
     border-bottom: 1px solid #c8c8c8;
@@ -198,7 +198,7 @@ header{
             background-color:#ff4038 ;
             transition: all 0.4s ease-in-out;
             color: #fff;
-        }
+        } */
 
 
     /* Header style End  */
